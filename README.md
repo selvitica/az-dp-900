@@ -6,3 +6,7 @@ Identify data formats
 + semi-structred
 + unstructured
 
+Broad categories of data store
++ File Stores
++ Databases
+
