@@ -10,3 +10,8 @@ Broad categories of data store
 + File Stores
 + Databases
 
+File Storage
++ delimited text files 
+ + csv
+ + tsv 
+ + fixed width
