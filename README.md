@@ -6,11 +6,12 @@ Identify data formats
 + semi-structred
 + unstructured
 
-Broad categories of data store
+#### Broad categories of data store
 + File Stores
 + Databases
 
-File Storage
+#### File Storage
 + delimited text files
   + csv, tsv, fixed width 
++ Javascript Object Notation(JSON)
 
