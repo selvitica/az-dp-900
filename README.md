@@ -11,7 +11,7 @@ Broad categories of data store
 + Databases
 
 File Storage
-+ delimited text files 
- + csv
- + tsv 
- + fixed width
++ delimited text files
+  + csv
+  + tsv 
+  + fixed width
