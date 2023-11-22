@@ -14,4 +14,5 @@ Identify data formats
 + delimited text files
   + csv, tsv, fixed width 
 + Javascript Object Notation(JSON)
-
++ Extensible Markup Language(XML)
++ Binary Large Object(BLOB)
