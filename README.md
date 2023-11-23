@@ -30,3 +30,8 @@ Identify data formats
     + ex like column A Customer is actually a.1 and a.2, where a.1 is customer name & a.2 is customer address.
     + Rows can consists of mutiple grouped column family like A
   + Graph db (sigh, full of connected nodes ig)
+
+### Transactional Data Processing
+
+### Analytical Data Processing
+
