@@ -32,6 +32,13 @@ Identify data formats
   + Graph db (sigh, full of connected nodes ig)
 
 ### Transactional Data Processing
+ + ex like banking, high volume, discrete
+ + OLTP -Work performed by these txnl systems
+  + ACID semantics
+   + Atomicity (payment pass/fail)
+   + Consistency (one valid state 2 another, fund sent match in the target acc)
+   + Isolation ( ex post payment, balance retireved should be consistent)
+   + Durability (Commmiting the txn)   
 
 ### Analytical Data Processing
 
