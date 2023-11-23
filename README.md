@@ -19,4 +19,12 @@ Identify data formats
 + Optimized file formats
   + AVRO - row based, header json, Apache 
   + ORC - Optimized Row Columnar, stores in columns
-  + Parquet - Columnar 
+  + Parquet - Columnar
+
+#### Databases
++ Relational db
++ Non-relational db aka NoSQL 
+ + Key-value db
+ + Document db
+ + Column family db
+ + Graph db
