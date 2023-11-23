@@ -24,7 +24,7 @@ Identify data formats
 #### Databases
 + Relational db
 + Non-relational db aka NoSQL
- + Key-value db
- + Document db
- + Column family db
- + Graph db
+  + Key-value db
+  + Document db
+  + Column family db
+  + Graph db
