@@ -42,3 +42,8 @@ Identify data formats
 
 ### Analytical Data Processing
 
+### Roles in Organizations
++ Database Administator (Design, Implement, Maintain, Securing etc..)
++ Data Engineer (ETL, data ingestion Xfrm, monitor, maintaining privacy)
++ Data Analyst (identifying trends, relationships in Data, Design and Building New models, Report generation)
+
