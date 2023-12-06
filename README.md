@@ -47,3 +47,19 @@ Identify data formats
 + Data Engineer (ETL, data ingestion Xfrm, monitor, maintaining privacy)
 + Data Analyst (identifying trends, relationships in Data, Design and Building New models, Report generation)
 
+### Identify Data Services
++ Azure SQL (Az Family of SQL)
+ +  Azure SQL
+ +  Azure SQL Managed Instance
+ +  Azure SQL for VM
++ Azure SQL for open source data base systems
+  + Azure SQL for MySQL
+  + Azure SQL for MariaDB
+  + Azure SQL for Postgres
++ Azure Blob Storage (Blob, table , fileshares)
++ Azure Data Factory
++ Azure DataBricks
++ Azure HDInsights
++ Azure Cosmos DB
+  
+
