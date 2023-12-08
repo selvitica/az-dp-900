@@ -65,7 +65,7 @@ Identify data formats
 + Az Stream Analytics
 + Az Data Explorer
 + Microsoft Purview
-+ Mircrosoft Fabric
++ Mircrosoft Fabric ((ETL, SaaS soln for Data Analytics)
 
 
 
