@@ -56,6 +56,7 @@ Identify data formats
   + Az SQL for MySQL
   + Az SQL for MariaDB
   + Az SQL for Postgres
+  + Az SQL Edge (IOT)
 + Az Blob Storage (Blob, table , fileshares)
 + Az Data Factory
 + Az DataBricks
