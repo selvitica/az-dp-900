@@ -48,18 +48,24 @@ Identify data formats
 + Data Analyst (identifying trends, relationships in Data, Design and Building New models, Report generation)
 
 ### Identify Data Services
-+ Azure SQL (Az Family of SQL)
- +  Azure SQL
- +  Azure SQL Managed Instance
- +  Azure SQL for VM
++ Az SQL (Az Family of SQL)
+ +  Az SQL
+ +  Az SQL Managed Instance
+ +  Az SQL for VM
 + Azure SQL for open source data base systems
-  + Azure SQL for MySQL
-  + Azure SQL for MariaDB
-  + Azure SQL for Postgres
-+ Azure Blob Storage (Blob, table , fileshares)
-+ Azure Data Factory
-+ Azure DataBricks
-+ Azure HDInsights
-+ Azure Cosmos DB
-  
+  + Az SQL for MySQL
+  + Az SQL for MariaDB
+  + Az SQL for Postgres
++ Az Blob Storage (Blob, table , fileshares)
++ Az Data Factory
++ Az DataBricks
++ Az HDInsight
++ Az Cosmos DB
++ Az Synapse Analytics
++ Az Stream Analytics
++ Az Data Explorer
++ Microsoft Purview
++ Mircrosoft Fabric
+
+
 
