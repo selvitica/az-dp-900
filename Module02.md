@@ -1,12 +1,14 @@
 # az-dp-900
 
-## module 2
+## Module 2
 Relational Data Concepts
 Data Normalization (minimize data duplicates and enforce integrity)
+SQL
 
-#### Broad categories of data store
-+ File Stores
-+ Databases
+#### SQL statement types
++ DDL (Data Definition Language) *CREATE, ALTER, DROP, RENAME*
++ DCL (Data Control Language) *GRANT, DENY, REVOKE*
++ DML (Data Manipulation Language) *SELECT, INSERT, UPDATE, DELETE*
 
 #### File Storage
 + delimited text files
