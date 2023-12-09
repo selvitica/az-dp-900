@@ -12,8 +12,8 @@ SQL
 
 #### Non-Relational Data
 + Az Blob Storage (page, block, append) (hot,cool,archive)
-+ Az DataLake Storage
-+ Extensible Markup Language(XML)
++ Az DataLake Storage (Hierarchical Namespace)
++ Az Files
 + Binary Large Object(BLOB)
 + Optimized file formats
   + AVRO - row based, header json, Apache 
