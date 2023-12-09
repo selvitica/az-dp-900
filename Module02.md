@@ -10,10 +10,9 @@ SQL
 + DCL (Data Control Language) *GRANT, DENY, REVOKE*
 + DML (Data Manipulation Language) *SELECT, INSERT, UPDATE, DELETE*
 
-#### File Storage
-+ delimited text files
-  + csv, tsv, fixed width 
-+ Javascript Object Notation(JSON)
+#### Non-Relational Data
++ Az Blob Storage (page, block, append) (hot,cool,archive)
++ Az DataLake Storage
 + Extensible Markup Language(XML)
 + Binary Large Object(BLOB)
 + Optimized file formats
