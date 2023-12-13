@@ -67,11 +67,11 @@ SQL
 + Mircrosoft Fabric ((ETL, SaaS soln for Data Analytics)
 
 ### Identify Azure Cosmos DB APIs
-+ Azure Cosmos DB for NoSQL (non-rel)
++ Azure Cosmos DB for NoSQL (non-rel, store and query JSON documents)
 + Azure Cosmos DB for MongoDB (Binary JSON)
 + Azure Cosmos DB for PostgreSQL (relational)
 + Azure Cosmos DB for Table
 + Azure Cosmos DB for Apache Cassandra
-+ Azure Cosmos DB for Apache Gremlin
++ Azure Cosmos DB for Apache Gremlin (data in which entities and their relationships to one another are represented in a graph using vertices and edges)
 
 
