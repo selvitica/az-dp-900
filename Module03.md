@@ -15,17 +15,13 @@ Data Analytics
 #### Data Analyical Stores
 + Data Warehouse (relation db optimized for Data Analytics)
  + sales order data (fact tables)  and customer,product,time (dimensions) --> derive monthly revenue/ store 
-+ Data Lakes (TBD)
++ Data Lakes (file store, distributed fs for high performance access)
 
-#### Databases
-+ Relational db
-+ Non-relational db aka NoSQL
-  + Key-value db
-  + Document db (specific of key-value where value is of JSON -f)
-  + Column family db
-    + ex like column A Customer is actually a.1 and a.2, where a.1 is customer name & a.2 is customer address.
-    + Rows can consists of mutiple grouped column family like A
-  + Graph db (sigh, full of connected nodes ig)
+#### PaaS solutions for large scale analytical store in Azure
++ Az Synapse Analytics
++ Az Data Bricks
++ Az HD Insight
+
 
 ### Transactional Data Processing
  + ex like banking, high volume, discrete
