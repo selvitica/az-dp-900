@@ -2,9 +2,12 @@
 
 ## Module 3
 Data Analytics
+1. Data Ingestion and Processing (ETL,ELT)
+2. Analytical Data Store (datawarehouse, datalakes etc)
+3. Analytical Data Model (cubes)
+4. Data Visualization (dasboards, bi -reports, kpi's etc)
 
-
-#### SQL statement types
+#### Data Ingestion Pipelines
 + DDL (Data Definition Language) *CREATE, ALTER, DROP, RENAME*
 + DCL (Data Control Language) *GRANT, DENY, REVOKE*
 + DML (Data Manipulation Language) *SELECT, INSERT, UPDATE, DELETE*
