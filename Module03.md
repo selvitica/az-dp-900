@@ -8,19 +8,14 @@ Data Analytics
 4. Data Visualization (dasboards, bi -reports, kpi's etc)
 
 #### Data Ingestion Pipelines
-+ DDL (Data Definition Language) *CREATE, ALTER, DROP, RENAME*
-+ DCL (Data Control Language) *GRANT, DENY, REVOKE*
-+ DML (Data Manipulation Language) *SELECT, INSERT, UPDATE, DELETE*
++ Az Data Factory
++ Az Synapse Analytics
++ Microsoft Fabric
 
-#### Non-Relational Data
-+ Az Blob Storage (page, block, append) (hot,cool,archive)
-+ Az DataLake Storage (Hierarchical Namespace)
-+ Az Files
-+ Binary Large Object(BLOB)
-+ Optimized file formats
-  + AVRO - row based, header json, Apache 
-  + ORC - Optimized Row Columnar, stores in columns
-  + Parquet - Columnar
+#### Data Analyical Stores
++ Data Warehouse (relation db optimized for Data Analytics)
+ + sales order data (fact tables)  and customer,product,time (dimensions) --> derive monthly revenue/ store 
++ Data Lakes (TBD)
 
 #### Databases
 + Relational db
